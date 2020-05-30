@@ -1,5 +1,6 @@
 # Getting-and-Cleaning-Data-Project
-Johns Hopkins Coursera Project
+Johns Hopkins Coursera Project.
+
 The purpose of this project is to demonstrate  ability to collect, work with, and clean a data set.
 
 ### Human Activity Recognition Using Smartphones
@@ -8,11 +9,11 @@ One of the most exciting areas in all of data science right now is wearable comp
 
 This repositery contains the following:
 
-1- [run_analysis script](www.bit.ly/1EqAdIp)
+1- [run_analysis script](https://github.com/salqx/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R)
 
 2- [Code Book](https://github.com/salqx/Getting-and-Cleaning-Data-Project/blob/master/CodeBook.md)
 
-3- [Second tidy data](www.bit.ly/1EqAdIp)
+3- [Second tidy data](https://github.com/salqx/Getting-and-Cleaning-Data-Project/blob/master/TidyData.txt)
 
 
 
